@@ -1,12 +1,10 @@
 #pragma once
 #include<iostream>
+#include<string>
 using namespace std;
-typedef unsigned int UINT;
 
-class Ls_06_06
+class Ls_07_04
 {
 public:
-	long Fac(const UINT n);
 	void printChar();
 };
-

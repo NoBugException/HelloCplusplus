@@ -1,12 +1,11 @@
 #pragma once
 #include<iostream>
+#include <iomanip>
 using namespace std;
-typedef unsigned int UINT;
 
-class Ls_06_06
+class Ls_07_02
 {
 public:
-	long Fac(const UINT n);
+	int fun(int array[3][3]);
 	void printChar();
 };
-

@@ -13,3 +13,8 @@ void Ls_06_03::OutputInfo(int num, ...)                        //定义一个省
     }
     va_end(arguments);
 }
+
+void Ls_06_03::printChar()
+{
+    OutputInfo(2, "Beijing", 2008, "Olympic Games", 2008);    //调用OutputInfo函数
+}

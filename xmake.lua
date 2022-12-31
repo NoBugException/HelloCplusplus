@@ -32,4 +32,5 @@ end
 -- includes("src/ls_03")
 -- includes("src/ls_04")
 -- includes("src/ls_05")
-includes("src/ls_06")
+-- includes("src/ls_06")
+includes("src/ls_07")

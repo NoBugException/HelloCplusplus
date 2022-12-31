@@ -7,5 +7,5 @@ class Ls_06_02
 public:
 	void OutputInfo();
 	void OutputInfo(const char* pchData);
-
+	void printChar();
 };

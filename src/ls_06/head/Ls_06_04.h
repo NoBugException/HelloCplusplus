@@ -6,5 +6,6 @@ class Ls_06_04
 {
 public:
 	void swap(int& a, int& b);
+	void printChar();
 };
 

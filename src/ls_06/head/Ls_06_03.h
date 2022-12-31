@@ -8,5 +8,6 @@ class Ls_06_03
 {
 public:
 	void OutputInfo(int num, ...);
+	void printChar();
 };
 

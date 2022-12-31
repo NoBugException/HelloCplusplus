@@ -11,3 +11,12 @@ void Ls_06_05::move(int n, char x, char y, char z)//将n个盘子从x针借助y�
         move(n - 1, y, x, z);
     }
 }
+
+void Ls_06_05::printChar()
+{
+    int n;
+    lCount = 0;
+    cout << "please input a number" << endl;
+    cin >> n;
+    move(n, 'a', 'b', 'c');
+}

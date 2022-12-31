@@ -2,10 +2,8 @@
 #include<iostream>
 using namespace std;
 
-class Ls_06_08
+class Ls_07_21
 {
 public:
-	int add(int x);
-	void printChar();
+    void printChar(int argc, char *argv[]);
 };
-
