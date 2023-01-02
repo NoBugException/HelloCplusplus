@@ -1,4 +1,7 @@
-#pragma once
+﻿#pragma once
+#ifndef __LS_07_19__
+#define __LS_07_19__
+
 #include<iostream>
 using namespace std;
 
@@ -9,3 +12,5 @@ public:
     void print(char *name[], int n);
     void printChar();
 };
+
+#endif

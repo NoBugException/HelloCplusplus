@@ -1,4 +1,4 @@
-#include "Ls_07_02.h"
+﻿#include "Ls_07_02.h"
 
 int Ls_07_02::fun(int array[3][3])
 {

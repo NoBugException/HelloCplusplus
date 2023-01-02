@@ -1,4 +1,4 @@
-#include "Ls_07_19.h"
+﻿#include "Ls_07_19.h"
 
 void Ls_07_19::sort(char *name[],int n)                  //对字符串进行排序
 {

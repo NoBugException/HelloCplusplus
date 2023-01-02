@@ -1,4 +1,7 @@
-#pragma once
+﻿#pragma once
+#ifndef __LS_07_16__
+#define __LS_07_16__
+
 #include<iostream>
 using namespace std;
 
@@ -9,3 +12,5 @@ public:
 	void swap(int * a, int * b);
     void swap(int a, int b);
 };
+
+#endif

@@ -1,4 +1,7 @@
-#pragma once
+﻿#pragma once
+#ifndef __LS_06_05__
+#define __LS_06_05__
+
 #include<iostream>
 using namespace std;
 
@@ -10,3 +13,4 @@ public:
 	void printChar();
 };
 
+#endif

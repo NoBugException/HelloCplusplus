@@ -1,4 +1,4 @@
-#include "Ls_06_02.h"
+﻿#include "Ls_06_02.h"
 
 void Ls_06_02::OutputInfo()
 {

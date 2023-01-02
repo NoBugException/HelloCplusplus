@@ -1,4 +1,7 @@
-#pragma once
+﻿#pragma once
+#ifndef __LS_07_18__
+#define __LS_07_18__
+
 #include<iostream>
 using namespace std;
 
@@ -8,3 +11,5 @@ public:
     int *pointerGet(int *p);
     void printChar();
 };
+
+#endif

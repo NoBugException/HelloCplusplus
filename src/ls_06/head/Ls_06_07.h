@@ -1,4 +1,7 @@
-#pragma once
+﻿#pragma once
+#ifndef __LS_06_07__
+#define __LS_06_07__
+
 #include<iostream>
 using namespace std;
 
@@ -9,4 +12,6 @@ public:
 	double Add(double x, double y);
 	void printChar();
 };
+
+#endif
 

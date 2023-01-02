@@ -1,4 +1,4 @@
-#include "Ls_07_17.h"
+﻿#include "Ls_07_17.h"
 
 int Ls_07_17::avg(int a,int b)
 {

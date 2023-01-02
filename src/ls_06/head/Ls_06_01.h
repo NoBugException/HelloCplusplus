@@ -1,4 +1,7 @@
-#pragma once
+﻿#pragma once
+#ifndef __LS_06_01__
+#define __LS_06_01__
+
 #include<iostream>
 using namespace std;
 
@@ -10,3 +13,5 @@ public:
 	void ShowIndex();
 	void printChar();
 };
+
+#endif

@@ -1,4 +1,4 @@
-#include "Ls_06_01.h"
+﻿#include "Ls_06_01.h"
 
 void Ls_06_01::ShowMessage()
 {

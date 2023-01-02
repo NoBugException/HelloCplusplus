@@ -1,4 +1,4 @@
-#include "Ls_06_05.h"
+﻿#include "Ls_06_05.h"
 
 void Ls_06_05::move(int n, char x, char y, char z)//将n个盘子从x针借助y针移到z针上。
 {

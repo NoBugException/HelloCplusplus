@@ -1,4 +1,4 @@
-add_defines("ls_04")
+﻿add_defines("ls_04")
 
 target("test")
     set_kind("binary")

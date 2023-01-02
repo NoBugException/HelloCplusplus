@@ -1,4 +1,4 @@
-#include "Ls_06_03.h"
+﻿#include "Ls_06_03.h"
 
 void Ls_06_03::OutputInfo(int num, ...)                        //定义一个省略号参数的函数
 {

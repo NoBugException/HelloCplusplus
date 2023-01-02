@@ -1,4 +1,7 @@
-#pragma once
+﻿#pragma once
+#ifndef __LS_06_08__
+#define __LS_06_08__
+
 #include<iostream>
 using namespace std;
 
@@ -8,4 +11,6 @@ public:
 	int add(int x);
 	void printChar();
 };
+
+#endif
 

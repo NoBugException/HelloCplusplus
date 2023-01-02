@@ -1,4 +1,4 @@
-#include "Ls_02_05.h"
+﻿#include "Ls_02_05.h"
 
 void Ls_02_05::printChar()
 {

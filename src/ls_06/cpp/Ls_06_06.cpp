@@ -1,4 +1,4 @@
-#include "Ls_06_06.h"
+﻿#include "Ls_06_06.h"
 
 long Ls_06_06::Fac(const UINT n)        //定义函数
 {

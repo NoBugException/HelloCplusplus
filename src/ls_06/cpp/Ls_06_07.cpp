@@ -1,4 +1,4 @@
-#include "Ls_06_07.h"
+﻿#include "Ls_06_07.h"
 
 int Ls_06_07::Add(int x, int y)                //定义第一个重载函数
 {

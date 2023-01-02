@@ -1,4 +1,4 @@
-#include "Ls_07_12.h"
+﻿#include "Ls_07_12.h"
 
 void Ls_07_12::printChar()
 {
