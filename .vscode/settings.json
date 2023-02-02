@@ -51,6 +51,8 @@
         "set": "cpp",
         "xtree": "cpp",
         "algorithm": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "strstream": "cpp",
+        "fstream": "cpp"
     }
 }
